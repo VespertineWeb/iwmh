@@ -22,3 +22,19 @@ sudo -H -u deploy bash -c "git clone https://github.com/canove/whaticket whatick
 sudo env PATH=\$PATH:/usr/bin pm2 startup ubuntu -u deploy --hp /home/deploy
 sudo -H -u deploy bash -c "pm2 save"
 sudo rm /etc/nginx/sites-enabled/default
+
+
+echo " 888b     d888 8888888888 888     888 888    888 888     888 888888b. ";
+echo " 8888b   d8888 888        888     888 888    888 888     888 888  "88b ";
+echo " 88888b.d88888 888        888     888 888    888 888     888 888  .88P ";
+echo " 888Y88888P888 8888888    888     888 8888888888 888     888 8888888K. ";
+echo " 888 Y888P 888 888        888     888 888    888 888     888 888  "Y88b ";
+echo " 888  Y8P  888 888        888     888 888    888 888     888 888    888 ";
+echo " 888   "   888 888        Y88b. .d88P 888    888 Y88b. .d88P 888   d88P ";
+echo " 888       888 8888888888  "Y88888P"  888    888  "Y88888P"  8888888P" ";
+
+echo "Tarefa Concluída!"
+
+echo "A maquina está pronta para primeira instalação :)"
+
+
